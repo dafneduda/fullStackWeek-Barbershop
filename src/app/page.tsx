@@ -76,7 +76,6 @@ const Home = async () => {
             <BarbershopItem key={barbershop.id} barbershop={barbershop} />
           ))}
         </div>
-        <Footer />
       </div>
     </div>
 
